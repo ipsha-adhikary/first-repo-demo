@@ -1,3 +1,4 @@
 # first-repo-demo
 this is my first git repository
-author-Ipsha Adhikary
+<br>
+Author-Ipsha Adhikary.
